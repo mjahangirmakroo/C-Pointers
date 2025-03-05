@@ -13,6 +13,8 @@ int main()
 	ptr = &a;
 	printf("Address of variable 'a': %p\n",ptr);
 	printf("Value of pointer 'ptr': %c\n",*ptr);
+	printf("Value of pointer 'ptr': %c\n",*ptr);
+
 
 	return(0);
 }
